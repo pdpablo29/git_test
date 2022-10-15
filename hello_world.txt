@@ -1,0 +1,1 @@
+Testing adding text to a file and then staging the changes.
